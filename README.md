@@ -1,6 +1,7 @@
 <h1>React 와 JPA, Bt16 게시판 remake</h1>
 
 <h2>UI<h2>
+
 ![RBoardServer Creat Page.png](doc%2FpageScreenshot%2FRBoardServer%20Creat%20Page.png)
 ![RBoardServer List Page.png](doc%2FpageScreenshot%2FRBoardServer%20List%20Page.png)
 ![RBoardServer Update Page.png](doc%2FpageScreenshot%2FRBoardServer%20Update%20Page.png)
